@@ -1,0 +1,6 @@
+.mypy_cache
+.pic.png
+.template.txt
+*.exe
+helper.py
+first_ver.c
